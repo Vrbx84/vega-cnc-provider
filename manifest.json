@@ -4,9 +4,10 @@
   "version": "1.0.0",
   "type": "provider",
   "description": "Provider for movies and web series streaming on Vega",
-  "main": "index.js",
+  "main": "https://raw.githubusercontent.com/Vrbx84/vega-cnc-provider/main/index.js",
   "icon": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/icon.png",
   "author": "Custom",
   "types": ["movie", "tv"],
   "baseUrl": "https://api.consumet.org/movies/flixhq"
 }
+
