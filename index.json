@@ -1,10 +1,15 @@
-[
-  {
-    "id": "cncverse-provider",
-    "name": "CNC Movies & Shows",
-    "version": "1.0.0",
-    "manifest": "https://raw.githubusercontent.com/Vrbx84/vega-cnc-provider/main/manifest.json",
-    "description": "Provider for movies and web series streaming",
-    "icon": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/icon.png"
-  }
-]
+{
+  "name": "CNC Verse Repository",
+  "description": "Vega custom providers",
+  "author": "Vrbx84",
+  "providers": [
+    {
+      "id": "cncverse-provider",
+      "name": "CNC Movies & Shows",
+      "version": "1.0.0",
+      "manifest": "https://raw.githubusercontent.com/Vrbx84/vega-cnc-provider/main/manifest.json",
+      "description": "Provider for movies and web series streaming",
+      "icon": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/icon.png"
+    }
+  ]
+}
