@@ -1,0 +1,14 @@
+{
+  "name": "vega-cnc-provider",
+  "version": "1.0.0",
+  "description": "Vega streaming provider",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "vega-builder build",
+    "test": "vega-builder test"
+  },
+  "devDependencies": {
+    "@vega/provider-core": "^1.0.0"
+  }
+}
