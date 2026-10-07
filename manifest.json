@@ -1,10 +1,12 @@
 {
-  "id": "cncverse.provider",
+  "id": "cncverse-provider",
   "name": "CNC Movies & Shows",
   "version": "1.0.0",
+  "type": "provider",
   "description": "Provider for movies and web series streaming on Vega",
+  "main": "index.js",
   "icon": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/icon.png",
   "author": "Custom",
-  "supportedTypes": ["movie", "series"],
+  "types": ["movie", "tv"],
   "baseUrl": "https://api.consumet.org/movies/flixhq"
 }
