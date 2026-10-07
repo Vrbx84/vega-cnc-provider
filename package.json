@@ -5,6 +5,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node index.js"
+    "build": "echo 'Build not needed, ready to use!'"
   }
 }
