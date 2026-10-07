@@ -1,0 +1,10 @@
+[
+  {
+    "id": "cncverse-provider",
+    "name": "CNC Movies & Shows",
+    "version": "1.0.0",
+    "manifest": "https://raw.githubusercontent.com/<Vrbx84>/<Vrbx84>/main/manifest.json",
+    "description": "Provider for movies and web series streaming",
+    "icon": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/icon.png"
+  }
+]
