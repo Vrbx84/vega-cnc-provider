@@ -5,10 +5,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build": "vega-builder build",
-    "test": "vega-builder test"
-  },
-  "devDependencies": {
-    "@vega/provider-core": "^1.0.0"
+    "test": "node index.js"
   }
 }
