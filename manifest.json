@@ -1,13 +1,10 @@
 {
-  "manifestVersion": 1,
-  "id": "cncverse-provider",
+  "id": "cnc-movies",
   "name": "CNC Movies & Shows",
   "version": "1.0.0",
-  "description": "Provider for movies and web series streaming",
-  "main": "index.js",
+  "description": "Stream movies and shows on Vega",
+  "author": "Vrbx84",
   "icon": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/icon.png",
-  "author": "Custom",
-  "type": "video",
-  "types": ["movie", "series"],
-  "language": "en"
+  "types": ["movie", "tv"],
+  "main": "index.js"
 }
